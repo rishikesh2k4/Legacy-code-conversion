@@ -1,4 +1,4 @@
-# 🧠 Legacy Code Conversion: Delphi → Python
+# Legacy Code Conversion: Delphi → Python
 
 A project built during the **EG Company Hackathon – Mangalore**, where our team stood among the **top 25 out of 120+ teams**. The challenge? Modernize legacy codebases. Our solution — an AI-powered translator that converts **Delphi** code to **Python** using a fine-tuned **GPT-2** model.
 
