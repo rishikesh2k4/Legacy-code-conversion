@@ -1,49 +1,43 @@
-# 🧠 Legacy code conversion from Delphi to Python code
+# 🧠 Legacy Code Conversion: Delphi → Python
 
- 
- A project developed during the **EG Company Hackathon in Mangalore**, where our team was selected among the **top 25 out of 120+ teams**. The challenge was to **modernize legacy code** — and we tackled it by building a custom solution that **translates Delphi code into Python** using a fine-tuned GPT-2 language model.
+A project built during the **EG Company Hackathon – Mangalore**, where our team stood among the **top 25 out of 120+ teams**. The challenge? Modernize legacy codebases. Our solution — an AI-powered translator that converts **Delphi (Pascal)** code to **Python** using a fine-tuned **GPT-2** model.
 
-
+---
 
 ## 🚀 Overview
 
-This project fine-tunes the GPT-2 model on Pascal-to-Python code translation examples and provides an interactive prompt where users can input legacy Pascal code and get equivalent Python code as output.
+Legacy code slows innovation. Manual rewriting is expensive and time-consuming. Our project presents an **automated approach** using **deep learning**, where a fine-tuned GPT-2 model translates Delphi code into modern Python equivalents — intelligently, and efficiently.
 
-
+---
 
 ## 💡 Problem Statement
 
-> **"Modernize legacy software codebases by converting outdated languages to modern programming languages."**
+> **Modernize legacy software codebases by converting outdated languages to modern programming languages.**
 
-We chose to convert **Delphi** code to **Python**, using a deep learning-based approach rather than rule-based parsers.
+We focused on **Delphi to Python** translation — replacing outdated systems with modern, readable, and efficient code using a **data-driven, model-based** approach instead of traditional rule-based parsers.
 
-
+---
 
 ## 🧰 Tech Stack
 
-- Python
-- PyTorch
-- HuggingFace Transformers
-- GPT-2 (Pretrained & Fine-tuned)
-- Google Colab (for training)
-- CUDA (GPU support)
+- Python 3.x  
+- HuggingFace Transformers  
+- PyTorch  
+- GPT-2 (Pretrained & Fine-tuned)  
+- Google Colab (for training)  
+- CUDA-enabled GPU (for acceleration)  
 
-
+---
 
 ## 📦 Features
 
-- Fine-tuning GPT-2 on code translation tasks
-- Real-time interactive CLI to convert Pascal to Python
-- Custom tokenizer with special tokens
-- Chunk-based long-input handling
-- Automatic formatting of generated Python output
+- Fine-tunes GPT-2 for Pascal → Python code translation  
+- Real-time CLI tool to input legacy code & get Python output  
+- Custom tokenizer with Delphi-specific special tokens  
+- Handles long code with chunking logic  
+- Auto-formats Python code output  
 
-
-
-## 🏁 Summary
-
-This project showcases how legacy Delphi code can be modernized using a language-model-based approach. While it's an early prototype, it opens the door to automating legacy software migrations using AI.
-
+---
 
 
 ## 👨🏻‍💻 Results
