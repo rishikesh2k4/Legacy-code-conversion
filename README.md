@@ -49,5 +49,5 @@ This project showcases how legacy Delphi code can be modernized using a language
 ## 👨🏻‍💻 Results
 
 
-
+![CLI Output](https://github.com/rishikesh2k4/Legacy-code-conversion/blob/main/assets/legacycodeoutputss.png?raw=true)
 
